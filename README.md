@@ -259,7 +259,7 @@ dateround
     =>
       2011-08-01
 
-  Find the next Monday from the current date (today is 2016-01-08):
+  Find the next Monday from the current date (today is 2015-01-08):
 
     $ dateround today Mon
     =>
